@@ -1,0 +1,137 @@
+body {
+    margin:0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+main {
+    margin-left: 7%;
+    margin-right: 7%;
+    width: 100%;
+}
+.navbar {
+    padding-bottom: 7px;
+    padding-top: 7px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom: 1px solid white;
+    box-shadow: 5px 5px 5px #dedede;
+   
+}
+.logo {
+    width: 15%;
+    margin-left: 7%;
+}
+.icone {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 7%;
+    color: grey;
+    padding-inline: 7px;
+}
+.lente {
+   width: 50px;
+}
+.save {
+    width: 50px;
+}
+.notifica {
+   width: 50px;
+}
+.member {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 20px;
+    color: black;
+    border-width: 0.5px;
+    border-color: grey;
+    border-style: inset;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.user {
+    color: red;
+    width: 50px;
+}
+.menu {
+    margin-top: 5%;
+    border-bottom: 0.5px solid grey;
+    font-size: smaller;
+    display: flex;
+    width: 50%;
+}
+span {
+    padding-inline: 7px;
+  }
+.follow {
+    background-color: transparent;
+    border-width: 0px;
+    border-style: none;
+    color: gray;
+}
+.foryou {
+    background-color: transparent;
+    border-width: 0px;
+    border-style: none;
+    color: gray;
+}
+.follow:hover {
+    background-color: transparent;
+    border-bottom: 2px solid black;
+    color: black;
+    font-weight: bolder;
+    
+}
+.foryou:hover {
+    background-color: transparent;
+    border-bottom: 2px solid black;
+    color: black;
+    font-weight: bolder;
+    
+}
+.container {
+    width: 50%;
+    display: flex;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+.incipit {
+    display: flex;
+    padding-top: 5%;
+    font-size: x-small; 
+}
+.ionicon {
+    display: flex;
+}
+.text {
+    font-size: x-small;
+    margin-top: 0;
+    margin-bottom:0;
+    color: grey;
+
+}
+.sottotesto {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 0;
+}
+.paragrafo {
+    margin-top: 0;
+    font-size: xx-small;
+    color: grey;
+}
+.img {
+    height: 150px;
+    width: 230px;
+    margin-top: 30px;
+    margin-left: 0px;
+}
+.testo {
+ margin-top:0;
+ margin-bottom:0;
+}
