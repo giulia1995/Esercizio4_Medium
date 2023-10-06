@@ -15,7 +15,6 @@ main {
     background-color: white;
     border-bottom: 1px solid white;
     box-shadow: 5px 5px 5px #dedede;
-   
 }
 .logo {
     width: 15%;
@@ -27,16 +26,9 @@ main {
     margin-right: 7%;
     color: grey;
     padding-inline: 7px;
+    font-size: 20px;
 }
-.lente {
-   width: 50px;
-}
-.save {
-    width: 50px;
-}
-.notifica {
-   width: 50px;
-}
+
 .member {
     padding-left: 15px;
     padding-right: 15px;
@@ -52,7 +44,7 @@ main {
 }
 .user {
     color: red;
-    width: 50px;
+    font-size: 20px;
 }
 .menu {
     margin-top: 5%;
@@ -61,9 +53,7 @@ main {
     display: flex;
     width: 50%;
 }
-span {
-    padding-inline: 7px;
-  }
+
 .follow {
     background-color: transparent;
     border-width: 0px;
@@ -112,6 +102,7 @@ span {
     margin-top: 0;
     margin-bottom:0;
     color: grey;
+    padding-top: 5px;
 
 }
 .sottotesto {
@@ -126,12 +117,15 @@ span {
     color: grey;
 }
 .img {
-    height: 150px;
-    width: 230px;
+    width: 200px;
     margin-top: 30px;
-    margin-left: 0px;
+    margin-left: 20px;
 }
-.testo {
+.boxtesto {
  margin-top:0;
  margin-bottom:0;
+}
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
 }
