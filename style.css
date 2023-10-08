@@ -103,7 +103,7 @@ main {
   font-size: 20px;
 }
 .text {
-  font-size: x-small;
+  font-size: small;
   margin-top: 0;
   margin-bottom: 0;
   color: grey;
@@ -117,7 +117,7 @@ main {
 }
 .paragrafo {
   margin-top: 10px;
-  font-size: xx-small;
+  font-size: x-small;
   color: grey;
 }
 span {
@@ -197,7 +197,7 @@ h3 {
 }
 #link {
   color: gray;
-  font-size: smaller;
+  font-size: small;
   text-decoration: underline;
   text-align: center;
   margin-top: 20px;
@@ -207,13 +207,14 @@ h3 {
   margin-left:20% ;
 }
 .topics span {
-  font-size: xx-small;
+  font-size: x-small;
   padding: 7px;
   border-radius: 20px;
 }
 h6 {
+  font-size:small;
   font-weight: lighter;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 10px;
 }
 .utenti {
@@ -231,14 +232,14 @@ h6 {
 .titleutente {
   margin: 0;
   margin-left: 5px;
-  font-size: x-small;
+  font-size: small;
   padding-bottom: 3px;
 }
 .subtitleutente  {
   margin: 0;
   margin-left: 5px;
   color: #7F7F7F;
-  font-size: xx-small;
+  font-size: x-small;
   margin-top: 3px;  
 }
 .buttonfollow button{
@@ -248,21 +249,21 @@ h6 {
   border-color: grey;
   border-style: inset;
   padding: 5px;
-  font-size: x-small; 
+  font-size: small; 
 }
 .containerbottom {
   display: flex;
   align-items: center;
-  font-size: xx-small;
+  font-size: x-small;
 }
 h4 {
-  font-size: small;
+  font-size:medium;
   font-weight: bold;
   margin: 0;
 }
 .green {
   color: green;
-  font-size: x-small;
+  font-size: small;
   margin-top: 20px;
 }
 #footer {
